@@ -34,3 +34,4 @@ Open the project folder in VS Code and allow it to open in a Dev Container when 
 ## ✅ How to Check Your Work
 
 Laborantum extension includes an automated grading system that compares your solutions to the instructor's reference implementation. It runs locally inside Docker, so you don’t need internet access once everything is set up.# hs-linear-algebra
+# hs-linear-algebra
