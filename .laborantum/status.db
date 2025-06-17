@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 34,
-                "correct": 8.266666666666666
+                "correct": 8.333333333333332
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 8.266666666666666
+                "correct": 8.333333333333332
             }
         },
         {
@@ -96,23 +96,23 @@
             "path": "/texts/course/1. Vectors/Scalar Product Proof/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0.26666666666666666,
+                "correct": 0.3333333333333333,
                 "selectedVariantIds": [
                     0,
-                    10,
-                    13,
-                    3,
-                    4,
-                    12,
-                    9,
-                    7,
-                    11,
-                    6,
-                    2,
-                    5,
-                    14,
+                    1,
                     8,
-                    1
+                    13,
+                    12,
+                    5,
+                    6,
+                    10,
+                    14,
+                    7,
+                    4,
+                    11,
+                    2,
+                    3,
+                    9
                 ]
             }
         },
