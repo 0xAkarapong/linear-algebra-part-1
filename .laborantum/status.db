@@ -3,7 +3,7 @@
         {
             "path": "/texts/course/config.yml",
             "status": {
-                "total": 96,
+                "total": 111,
                 "correct": 23.090909090909093
             }
         },
@@ -32,6 +32,13 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/config.yml",
+            "status": {
+                "total": 15,
                 "correct": 0
             }
         }
@@ -2491,6 +2498,54 @@
         },
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Functions as Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Linear Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices II/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices III/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Some Interesting Linear Transforms/config.yml",
             "status": {
                 "total": 1,
                 "correct": 0,
