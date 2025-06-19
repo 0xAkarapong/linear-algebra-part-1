@@ -2,7 +2,7 @@
     "vectors": [
         {
             "__ndarray__": [
-                6
+                -6
             ],
             "dtype": "int64",
             "shape": [
