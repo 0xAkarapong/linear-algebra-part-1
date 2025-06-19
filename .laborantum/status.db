@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 23.090909090909093
+                "correct": 23.51948051948052
             }
         },
         {
@@ -25,7 +25,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 0
+                "correct": 0.42857142857142855
             }
         },
         {
@@ -2372,8 +2372,11 @@
             "path": "/texts/course/2. Vector Spaces/Spans/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 0.42857142857142855,
+                "selectedVariantIds": [
+                    2,
+                    4
+                ]
             }
         },
         {
