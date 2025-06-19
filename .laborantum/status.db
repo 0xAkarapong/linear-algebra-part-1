@@ -1,0 +1,2559 @@
+{
+    "chapters": [
+        {
+            "path": "/texts/course/config.yml",
+            "status": {
+                "total": 111,
+                "correct": 24.428571428571427
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/config.yml",
+            "status": {
+                "total": 34,
+                "correct": 24
+            }
+        },
+        {
+            "path": "/texts/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/config.yml",
+            "status": {
+                "total": 39,
+                "correct": 0.42857142857142855
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/config.yml",
+            "status": {
+                "total": 23,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/config.yml",
+            "status": {
+                "total": 15,
+                "correct": 0
+            }
+        }
+    ],
+    "lessons": [
+        {
+            "path": "/texts/course/1. Vectors/Length of Vector Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    3,
+                    4
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz 2/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    3,
+                    5,
+                    7,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scaling Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    2,
+                    6,
+                    3,
+                    1
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    6,
+                    2,
+                    0
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Geometric Meaning Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    2,
+                    3,
+                    5,
+                    6
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Orthonormalisation Quiz/config.yml",
+            "status": {
+                "total": 2,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Numpy Practice/config.yml",
+            "status": {
+                "correct": 15,
+                "total": 15,
+                "testStatus": [
+                    {
+                        "name": "root -> vectors -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 0 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 1 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 2 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 3 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
+            "status": {
+                "correct": 0,
+                "total": 10,
+                "testStatus": [
+                    {
+                        "name": "root -> lengths -> 0",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.582975339530118"
+                    },
+                    {
+                        "name": "root -> lengths -> 1",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.718957380176559"
+                    },
+                    {
+                        "name": "root -> lengths -> 2",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.2460652763650293"
+                    },
+                    {
+                        "name": "root -> lengths -> 3",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.625382501502674"
+                    },
+                    {
+                        "name": "root -> lengths -> 4",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.5277918219952085"
+                    },
+                    {
+                        "name": "root -> lengths -> 5",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.271802895872349"
+                    },
+                    {
+                        "name": "root -> lengths -> 6",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 11.460231012393416"
+                    },
+                    {
+                        "name": "root -> lengths -> 7",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.215039318588817"
+                    },
+                    {
+                        "name": "root -> lengths -> 8",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.903366649656816"
+                    },
+                    {
+                        "name": "root -> lengths -> 9",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6581719164334383"
+                    },
+                    {
+                        "name": "root -> lengths -> 10",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.9335715556486992"
+                    },
+                    {
+                        "name": "root -> lengths -> 11",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.442957175559231"
+                    },
+                    {
+                        "name": "root -> lengths -> 12",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.818799241868781"
+                    },
+                    {
+                        "name": "root -> lengths -> 13",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.129641755848816"
+                    },
+                    {
+                        "name": "root -> lengths -> 14",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.569198535482311"
+                    },
+                    {
+                        "name": "root -> lengths -> 15",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.982151067871152"
+                    },
+                    {
+                        "name": "root -> lengths -> 16",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.5360921505794725"
+                    },
+                    {
+                        "name": "root -> lengths -> 17",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.266606569498206"
+                    },
+                    {
+                        "name": "root -> lengths -> 18",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.415666301089188"
+                    },
+                    {
+                        "name": "root -> lengths -> 19",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.4629009883848845"
+                    },
+                    {
+                        "name": "root -> lengths -> 20",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.137116799627841"
+                    },
+                    {
+                        "name": "root -> lengths -> 21",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.7603514241203166"
+                    },
+                    {
+                        "name": "root -> lengths -> 22",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.413676185844393"
+                    },
+                    {
+                        "name": "root -> lengths -> 23",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.793182197212368"
+                    },
+                    {
+                        "name": "root -> lengths -> 24",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.794434363588534"
+                    },
+                    {
+                        "name": "root -> lengths -> 25",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.271081259952166"
+                    },
+                    {
+                        "name": "root -> lengths -> 26",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.320886211729754"
+                    },
+                    {
+                        "name": "root -> lengths -> 27",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.1880344836000853"
+                    },
+                    {
+                        "name": "root -> lengths -> 28",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.117938027631713"
+                    },
+                    {
+                        "name": "root -> lengths -> 29",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.414153966886318"
+                    },
+                    {
+                        "name": "root -> lengths -> 30",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.6654821743692745"
+                    },
+                    {
+                        "name": "root -> lengths -> 31",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.059757340291193"
+                    },
+                    {
+                        "name": "root -> lengths -> 32",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.903078413122773"
+                    },
+                    {
+                        "name": "root -> lengths -> 33",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.990966419016111"
+                    },
+                    {
+                        "name": "root -> lengths -> 34",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.852454798222297"
+                    },
+                    {
+                        "name": "root -> lengths -> 35",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.829816590017297"
+                    },
+                    {
+                        "name": "root -> lengths -> 36",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.7164586726971525"
+                    },
+                    {
+                        "name": "root -> lengths -> 37",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.587955335150744"
+                    },
+                    {
+                        "name": "root -> lengths -> 38",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.262738191309765"
+                    },
+                    {
+                        "name": "root -> lengths -> 39",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.880529015720501"
+                    },
+                    {
+                        "name": "root -> lengths -> 40",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.273660339743599"
+                    },
+                    {
+                        "name": "root -> lengths -> 41",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.208720599542526"
+                    },
+                    {
+                        "name": "root -> lengths -> 42",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.39710889061873"
+                    },
+                    {
+                        "name": "root -> lengths -> 43",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.975958194220262"
+                    },
+                    {
+                        "name": "root -> lengths -> 44",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.229962088990668"
+                    },
+                    {
+                        "name": "root -> lengths -> 45",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.6457265578186036"
+                    },
+                    {
+                        "name": "root -> lengths -> 46",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.782568480817094"
+                    },
+                    {
+                        "name": "root -> lengths -> 47",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.2197439127601672"
+                    },
+                    {
+                        "name": "root -> lengths -> 48",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.329836309727085"
+                    },
+                    {
+                        "name": "root -> lengths -> 49",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.015149397279327"
+                    },
+                    {
+                        "name": "root -> lengths -> 50",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.061185392946933"
+                    },
+                    {
+                        "name": "root -> lengths -> 51",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.6300478193803585"
+                    },
+                    {
+                        "name": "root -> lengths -> 52",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.516534427277604"
+                    },
+                    {
+                        "name": "root -> lengths -> 53",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.675299692970924"
+                    },
+                    {
+                        "name": "root -> lengths -> 54",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.93330523423341"
+                    },
+                    {
+                        "name": "root -> lengths -> 55",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.015105585935843"
+                    },
+                    {
+                        "name": "root -> lengths -> 56",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.662782562091419"
+                    },
+                    {
+                        "name": "root -> lengths -> 57",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6601901497230163"
+                    },
+                    {
+                        "name": "root -> lengths -> 58",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.548990523449845"
+                    },
+                    {
+                        "name": "root -> lengths -> 59",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.863161890846676"
+                    },
+                    {
+                        "name": "root -> lengths -> 60",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.062093044556524"
+                    },
+                    {
+                        "name": "root -> lengths -> 61",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.14914962160482"
+                    },
+                    {
+                        "name": "root -> lengths -> 62",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.772835290331984"
+                    },
+                    {
+                        "name": "root -> lengths -> 63",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.57933172314093"
+                    },
+                    {
+                        "name": "root -> lengths -> 64",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.507660509877748"
+                    },
+                    {
+                        "name": "root -> lengths -> 65",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.744029560911834"
+                    },
+                    {
+                        "name": "root -> lengths -> 66",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.990183396608346"
+                    },
+                    {
+                        "name": "root -> lengths -> 67",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.6885565023710605"
+                    },
+                    {
+                        "name": "root -> lengths -> 68",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.764049020569931"
+                    },
+                    {
+                        "name": "root -> lengths -> 69",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.446762737761025"
+                    },
+                    {
+                        "name": "root -> lengths -> 70",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.61613050309538"
+                    },
+                    {
+                        "name": "root -> lengths -> 71",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.703844609467838"
+                    },
+                    {
+                        "name": "root -> lengths -> 72",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.428025962321527"
+                    },
+                    {
+                        "name": "root -> lengths -> 73",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.573802759232173"
+                    },
+                    {
+                        "name": "root -> lengths -> 74",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 13.907557367761065"
+                    },
+                    {
+                        "name": "root -> lengths -> 75",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.9614423921114383"
+                    },
+                    {
+                        "name": "root -> lengths -> 76",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.5698699697306235"
+                    },
+                    {
+                        "name": "root -> lengths -> 77",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.112386038176289"
+                    },
+                    {
+                        "name": "root -> lengths -> 78",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.200040968185711"
+                    },
+                    {
+                        "name": "root -> lengths -> 79",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.822001061964868"
+                    },
+                    {
+                        "name": "root -> lengths -> 80",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.3190017290507114"
+                    },
+                    {
+                        "name": "root -> lengths -> 81",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.502370195173699"
+                    },
+                    {
+                        "name": "root -> lengths -> 82",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.76486066734915"
+                    },
+                    {
+                        "name": "root -> lengths -> 83",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.619289913263645"
+                    },
+                    {
+                        "name": "root -> lengths -> 84",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.025758088986934"
+                    },
+                    {
+                        "name": "root -> lengths -> 85",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.677832299253241"
+                    },
+                    {
+                        "name": "root -> lengths -> 86",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.762815828675642"
+                    },
+                    {
+                        "name": "root -> lengths -> 87",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.8818804888037155"
+                    },
+                    {
+                        "name": "root -> lengths -> 88",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.059578190077067"
+                    },
+                    {
+                        "name": "root -> lengths -> 89",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.3331390329779955"
+                    },
+                    {
+                        "name": "root -> lengths -> 90",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.724248415930501"
+                    },
+                    {
+                        "name": "root -> lengths -> 91",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.363385821928999"
+                    },
+                    {
+                        "name": "root -> lengths -> 92",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.039962747127678"
+                    },
+                    {
+                        "name": "root -> lengths -> 93",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.782182600393504"
+                    },
+                    {
+                        "name": "root -> lengths -> 94",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.438404425997856"
+                    },
+                    {
+                        "name": "root -> lengths -> 95",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.449427816281386"
+                    },
+                    {
+                        "name": "root -> lengths -> 96",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.741959113189976"
+                    },
+                    {
+                        "name": "root -> lengths -> 97",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.789026581111212"
+                    },
+                    {
+                        "name": "root -> lengths -> 98",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.747024193241855"
+                    },
+                    {
+                        "name": "root -> lengths -> 99",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.2241037474185026"
+                    },
+                    {
+                        "name": "root -> lengths -> 100",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.4181894110241124"
+                    },
+                    {
+                        "name": "root -> directions -> 0",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 1",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 2",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 3",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 4",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 5",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 6",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 7",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 8",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 9",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 10",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 11",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 12",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 13",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 14",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 15",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 16",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 17",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 18",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 19",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 20",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 21",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 22",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 23",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 24",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 25",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 26",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 27",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 28",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 29",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 30",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 31",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 32",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 33",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 34",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 35",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 36",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 37",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 38",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 39",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 40",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 41",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 42",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 43",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 44",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 45",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 46",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 47",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 48",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 49",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 50",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 51",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 52",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 53",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 54",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 55",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 56",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 57",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 58",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 59",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 60",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 61",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 62",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 63",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 64",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 65",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 66",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 67",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 68",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 69",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 70",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 71",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 72",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 73",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 74",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 75",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 76",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 77",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 78",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 79",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 80",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 81",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 82",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 83",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 84",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 85",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 86",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 87",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 88",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 89",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 90",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 91",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 92",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 93",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 94",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 95",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 96",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 97",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 98",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 99",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> directions -> 100",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> cosine -> 0",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 2",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 3",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 4",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 5",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 6",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 7",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 8",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 9",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 10",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 11",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 12",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 13",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 14",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 15",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 16",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 17",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 18",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 19",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 20",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 21",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 22",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 23",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 24",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 25",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 26",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 27",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 28",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 29",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 30",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 31",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 32",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 33",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 34",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 35",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 36",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 37",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 38",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 39",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 40",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 41",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 42",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 43",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 44",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 45",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 46",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 47",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 48",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 49",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 50",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 51",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 52",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 53",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 54",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 55",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 56",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 57",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 58",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 59",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 60",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 61",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 62",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 63",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 64",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 65",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 66",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 67",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 68",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 69",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 70",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 71",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 72",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 73",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 74",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 75",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 76",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 77",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 78",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 79",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 80",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 81",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 82",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 83",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 84",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 85",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 86",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 87",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 88",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 89",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 90",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 91",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 92",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 93",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 94",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 95",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 96",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 97",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 98",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 99",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> cosine -> 100",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 0",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6600368"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 1",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 2",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 3",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7499337"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 4",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 5",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 6",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 7",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 8",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 9",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 10",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 11",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 12",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 13",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 14",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 15",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 16",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 17",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 18",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 19",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7363467"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 20",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 21",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 22",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.31801575"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 23",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 24",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 25",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 26",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 27",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 28",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 29",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6337737"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 30",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 31",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 32",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 33",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 34",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 35",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 36",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 37",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 38",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 39",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 40",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 41",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 42",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 43",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 44",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 45",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5552157"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 46",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 47",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.4075329"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 48",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 49",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.72751683"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 50",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7773501"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 51",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 52",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 53",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 54",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 55",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 56",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 57",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5676526"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 58",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 59",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 60",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 61",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 62",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 63",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 64",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 65",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 66",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 67",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 68",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 69",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 70",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 71",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 72",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 73",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 74",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 75",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 76",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 77",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 78",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 79",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 80",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 81",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 82",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 83",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 84",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 85",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 86",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 87",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 88",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 89",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6565315"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 90",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 91",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 92",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 93",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 94",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 95",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.8632387"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 96",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 97",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 98",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.700241"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 99",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                    },
+                    {
+                        "name": "root -> orthonormal -> 100",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Spans/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0.42857142857142855,
+                "selectedVariantIds": [
+                    2,
+                    4
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Dependency/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Independency 1/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Independency 2/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Dependensy and Orthonormalization/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Orthonormalization Algorithm/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Basis/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Coordinates/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Orthonormal Coordinates/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Coordinates and Basis Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Hyperplanes and Subspaces/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Hyperplanes/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrices Manual Exercise/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix Product Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix Product Optimal Order/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Functions as Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Linear Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices II/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices III/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Some Interesting Linear Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        }
+    ]
+}
