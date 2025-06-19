@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 23.51948051948052
+                "correct": 24.428571428571427
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 23.090909090909093
+                "correct": 24
             }
         },
         {
@@ -168,13 +168,13 @@
         {
             "path": "/texts/course/1. Vectors/Numpy Practice/config.yml",
             "status": {
-                "correct": 14.090909090909092,
+                "correct": 15,
                 "total": 15,
                 "testStatus": [
                     {
                         "name": "root -> vectors -> 0",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> vectors -> 1",
@@ -298,8 +298,8 @@
                     },
                     {
                         "name": "root -> lovely -> 0",
-                        "ok": false,
-                        "status": "FAILED: Edit distance between strings is 1"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lovely -> 1",
