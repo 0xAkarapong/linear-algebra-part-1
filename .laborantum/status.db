@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 31.928571428571427
+                "correct": 34.42857142857143
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 31.5
+                "correct": 34
             }
         },
         {
@@ -342,7 +342,7 @@
         {
             "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
             "status": {
-                "correct": 7.5,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -1862,508 +1862,508 @@
                     },
                     {
                         "name": "root -> orthonormal -> 0",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 1",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 2",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 3",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 4",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 5",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 6",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 7",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 8",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 9",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 10",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 11",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 12",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 13",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 14",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 15",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 16",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 17",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 18",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 19",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 20",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 21",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 22",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 23",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 24",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 25",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 26",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 27",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 28",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 29",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 30",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 31",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 32",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 33",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 34",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 35",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 36",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 37",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 38",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 39",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 40",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 41",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 42",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 43",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 44",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 45",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 46",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 47",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 48",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 49",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 50",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 51",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 52",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 53",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 54",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 55",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 56",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 57",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 58",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 59",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 60",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 61",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 62",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 63",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 64",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 65",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 66",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 67",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 68",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 69",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 70",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 71",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 72",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 73",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 74",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 75",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 76",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 77",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 78",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 79",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 80",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 81",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 82",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 83",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 84",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 85",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 86",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 87",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 88",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 89",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 90",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 91",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 92",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 93",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 94",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 95",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 96",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 97",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 98",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 99",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 100",
-                        "ok": false,
-                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
