@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 27.275106082036775
+                "correct": 31.928571428571427
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 26.846534653465348
+                "correct": 31.5
             }
         },
         {
@@ -342,7 +342,7 @@
         {
             "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
             "status": {
-                "correct": 2.8465346534653464,
+                "correct": 7.5,
                 "total": 10,
                 "testStatus": [
                     {
@@ -352,13 +352,13 @@
                     },
                     {
                         "name": "root -> lengths -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 11.497907776361867"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 2",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6695301034734866"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 3",
@@ -367,78 +367,78 @@
                     },
                     {
                         "name": "root -> lengths -> 4",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.736930143712913"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 5",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.302931770021623"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 6",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.643654742009849"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 7",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.285875826035944"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 8",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.622577600223709"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 9",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.483927137840341"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 10",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.612067247834174"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 11",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.981003772627377"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 12",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.336353592022452"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 13",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.292832663367866"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 14",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.9180477879165405"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 15",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.565662578265231"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 16",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.353151707498284"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 17",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.015401986235588"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 18",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.1225871887954515"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 19",
@@ -447,13 +447,13 @@
                     },
                     {
                         "name": "root -> lengths -> 20",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.9984496135752767"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 21",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.917948448510471"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 22",
@@ -462,33 +462,33 @@
                     },
                     {
                         "name": "root -> lengths -> 23",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.939097128953938"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 24",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.271249359977674"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 25",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.461656866327401"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 26",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.064625102420368"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 27",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.634280536387018"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 28",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.976946726254047"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 29",
@@ -497,78 +497,78 @@
                     },
                     {
                         "name": "root -> lengths -> 30",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5001931621855129"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 31",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5257746186856318"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 32",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.659324658575228"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 33",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6910301358946866"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 34",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.674004798937274"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 35",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.502730148436589"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 36",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.7458259481928318"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 37",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.893993973203187"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 38",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.3321182268228835"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 39",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 11.727645102814643"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 40",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.9777744073946195"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 41",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.660640393876091"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 42",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.785559636133963"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 43",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.4687718407848918"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 44",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.92254449255792"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 45",
@@ -577,8 +577,8 @@
                     },
                     {
                         "name": "root -> lengths -> 46",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.873227007427537"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 47",
@@ -587,8 +587,8 @@
                     },
                     {
                         "name": "root -> lengths -> 48",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.187717860354471"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 49",
@@ -602,33 +602,33 @@
                     },
                     {
                         "name": "root -> lengths -> 51",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.80746805385054"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 52",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.13585737591632"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 53",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.1408381423898026"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 54",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.487710071674424"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 55",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.328562667535648"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 56",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.774663737425945"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 57",
@@ -637,158 +637,158 @@
                     },
                     {
                         "name": "root -> lengths -> 58",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.769110612292257"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 59",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.376516109225542"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 60",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.144172704134259"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 61",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 11.462403053352507"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 62",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.127797084461154"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 63",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.009656234832589"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 64",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.7485343600958245"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 65",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.41005777369552"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 66",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.5495246527222815"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 67",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.853893167109811"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 68",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0415569047075577"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 69",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.6560992003022585"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 70",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.222817459765132"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 71",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.467328626585752"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 72",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.632273674779165"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 73",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.302128256477207"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 74",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 11.447731866471344"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 75",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.8719037455820677"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 76",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.7820867485317144"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 77",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.886427858019331"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 78",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.028687436305329"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 79",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.4949312953431115"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 80",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.788204901499526"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 81",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.266715673458556"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 82",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.084702323672176"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 83",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.505588607932739"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 84",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.385200347310569"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 85",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.879751963215327"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 86",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.649880911602225"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 87",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0297017127273467"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 88",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.655747404628171"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 89",
@@ -797,28 +797,28 @@
                     },
                     {
                         "name": "root -> lengths -> 90",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.08698872245956"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 91",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5474182521022906"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 92",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.627695398154973"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 93",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.15327494062951"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 94",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.305244761030158"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 95",
@@ -827,13 +827,13 @@
                     },
                     {
                         "name": "root -> lengths -> 96",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.4054871778518256"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 97",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.725446480449332"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 98",
@@ -842,518 +842,518 @@
                     },
                     {
                         "name": "root -> lengths -> 99",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.269896707006721"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> lengths -> 100",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.310829950023908"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 0",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 1",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 2",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 3",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 4",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 5",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 6",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 7",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 8",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 9",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 10",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 11",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 12",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 13",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 14",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 15",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 16",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 17",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 18",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 19",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 20",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 21",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 22",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 23",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 24",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 25",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 26",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 27",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 28",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 29",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 30",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 31",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 32",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 33",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 34",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 35",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 36",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 37",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 38",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 39",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 40",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 41",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 42",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 43",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 44",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 45",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 46",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 47",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 48",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 49",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 50",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 51",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 52",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 53",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 54",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 55",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 56",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 57",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 58",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 59",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 60",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 61",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 62",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 63",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 64",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 65",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 66",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 67",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 68",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 69",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 70",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 71",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 72",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 73",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 74",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 75",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 76",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 77",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 78",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 79",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 80",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 81",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 82",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 83",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 84",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 85",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 86",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 87",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 88",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 89",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 90",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 91",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (3,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 92",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 93",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (7, 2)\nRecieved shape: (7,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 94",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 2)\nRecieved shape: (8,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 95",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 96",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 2)\nRecieved shape: (4,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 97",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (9, 2)\nRecieved shape: (9,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 98",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 99",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 2)\nRecieved shape: (5,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> directions -> 100",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 2)\nRecieved shape: (6,)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> cosine -> 0",
@@ -1863,507 +1863,507 @@
                     {
                         "name": "root -> orthonormal -> 0",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.09262134"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 1",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 2",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 3",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5021498"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 4",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 5",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 6",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 7",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 8",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 9",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 10",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 11",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 12",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 13",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 14",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 15",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 16",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 17",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 18",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 19",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5718468"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 20",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 21",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 22",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015824862"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 23",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 24",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 25",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 26",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 27",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 28",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 29",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.115161486"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 30",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 31",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 32",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 33",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 34",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 35",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 36",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 37",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 38",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 39",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 40",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 41",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 42",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 43",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 44",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 45",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.30305105"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 46",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 47",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.1065513"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 48",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 49",
-                        "ok": true,
-                        "status": "OK"
+                        "ok": false,
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 50",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.24095327"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 51",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 52",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 53",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 54",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 55",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 56",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 57",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013266627"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 58",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 59",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 60",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 61",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 62",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 63",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 64",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 65",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 66",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 67",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 68",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 69",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 70",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 71",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 72",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 73",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 74",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 75",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 76",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 77",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 78",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 79",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 80",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 81",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 82",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 83",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 84",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 85",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 86",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 87",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 88",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 89",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7948128"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 90",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 91",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 92",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 93",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 94",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 95",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.21051478"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 96",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 97",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 98",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6889987"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 99",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     },
                     {
                         "name": "root -> orthonormal -> 100",
                         "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
+                        "status": "FAILED: data types do not match:\nExpected type: float32\nRecieved type: float64"
                     }
                 ]
             }
