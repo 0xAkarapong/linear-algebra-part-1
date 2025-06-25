@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 60.006493506493506
+                "correct": 69.78427128427128
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 0
+                "correct": 9.777777777777779
             }
         },
         {
@@ -6062,24 +6062,85 @@
             "path": "/texts/course/3. Matrices/Matrix/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    1,
+                    8,
+                    7,
+                    5,
+                    3
+                ]
             }
         },
         {
             "path": "/texts/course/3. Matrices/Matrices Manual Exercise/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 7.777777777777778,
+                "total": 10,
+                "testStatus": [
+                    {
+                        "name": "root -> task1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2",
+                        "ok": false,
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (2, 5)\nRecieved shape: (5, 2)"
+                    },
+                    {
+                        "name": "root -> task3 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 3",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 1)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> task4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task5 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task5 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task5 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
             }
         },
         {
             "path": "/texts/course/3. Matrices/Matrix Product Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    11,
+                    1,
+                    4,
+                    5,
+                    10,
+                    2,
+                    7,
+                    6
+                ]
             }
         },
         {
