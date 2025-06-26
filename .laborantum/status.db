@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 82.45093795093794
+                "correct": 92.6096681096681
             }
         },
         {
@@ -32,14 +32,14 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 17.444444444444443
+                "correct": 17.603174603174605
             }
         },
         {
             "path": "/texts/course/4. Linear Transforms/config.yml",
             "status": {
                 "total": 15,
-                "correct": 5
+                "correct": 15
             }
         }
     ],
@@ -6159,7 +6159,7 @@
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
             "status": {
-                "correct": 6.666666666666666,
+                "correct": 6.825396825396826,
                 "total": 10,
                 "testStatus": [
                     {
@@ -6174,58 +6174,58 @@
                     },
                     {
                         "name": "root -> task1 -> 2",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 561,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> 0",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0977504955785351e+145"
                     },
                     {
                         "name": "root -> task2 -> 1",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5858515047308744e+70"
                     },
                     {
                         "name": "root -> task2 -> 2",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2350946953305824e+172"
                     },
                     {
                         "name": "root -> task2 -> 3",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.081103627943149e+233"
                     },
                     {
                         "name": "root -> task2 -> 4",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.5279095164437395e+157"
                     },
                     {
                         "name": "root -> task2 -> 5",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.141004845127554e+193"
                     },
                     {
                         "name": "root -> task2 -> 6",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8865884481544614e+181"
                     },
                     {
                         "name": "root -> task2 -> 7",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.1325017771634294e+55"
                     },
                     {
                         "name": "root -> task2 -> 8",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0041742996095955e+56"
                     },
                     {
                         "name": "root -> task2 -> 9",
                         "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.9954924127722713e+215"
                     },
                     {
                         "name": "root -> task3 -> 0",
@@ -6552,9 +6552,235 @@
         {
             "path": "/texts/course/4. Linear Transforms/Some Interesting Linear Transforms/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 10,
+                "total": 10,
+                "testStatus": [
+                    {
+                        "name": "root -> task1 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 7",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 8",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 9",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 10",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 7",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 8",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 9",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 10",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 7",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 8",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 9",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task3 -> 10",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 7",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 8",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 9",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task4 -> 10",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task5 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
             }
         }
     ]
